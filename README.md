@@ -4,9 +4,11 @@ This work is an extension and reimplementation of whole DE-GAN in pytorch and Al
 
 # citation 
 if this work is useful, please cite it as:
+
 @ARTICLE{Souibgui2020,
-  author={Mohamed Ali Souibgui  and Yousri Kessentini},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={DE-GAN: A Conditional Generative Adversarial Network for Document Enhancement}, 
+  author={Mohamed Ali Souibgui and Yousri Kessentini},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title={DE-GAN: A Conditional Generative Adversarial Network for Document Enhancement},
   year={2020},
-  doi={10.1109/TPAMI.2020.3022406}}
+  doi={10.1109/TPAMI.2020.[#######]}
+}
